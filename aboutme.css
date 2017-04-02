@@ -60,10 +60,27 @@ li a:hover {
 .photo1 {
 	width: 100%;
 	padding-left: 3%;
-	padding-top: 8%;
-	border-radius: 30px 30px 30px 30px;
+
+	margin-top: 8%;
 	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	
 		
+	
+}
+
+
+.icon1 {
+	width: 100px;
+	height: 100px;
+	
+}
+
+.icon2 {
+	width: 100px;
+	height: 100px;
 	
 }
 
