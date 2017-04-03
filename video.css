@@ -23,6 +23,18 @@ body {
     background: linear-gradient(white, lightpink); /* Standard syntax */
 }
 
+h3 {
+	
+	padding-left: 40px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+p {
+	
+	padding-left: 10px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
 
 ul {
     list-style-type: none;
@@ -56,6 +68,32 @@ h1 {
 	
 }
 
+#fullcontain {
+	width: 960px;
+}
+
+
+.containerleft {
+		width:15%;
+	float: left;
+	height: 100%;
+}
+
+.containermid {
+	
+	width:40%;
+	height: 100%;
+	float: right;
+	padding-left: 30px;
+}
+
+.containerright {
+	
+		width:40%;
+	float: right;
+	height: 100%;
+	padding-left: 30px;
+}
 
 
 #footer {
@@ -77,31 +115,24 @@ h1 {
 	font-size: 90%;
 }
 
+
 .video1 {
-	width: 42%;
-	padding-left: 5%;
-	padding-bottom: 2%;
-	padding-top: 2%;
+	width: 90%;
 	
 }
 
 .video2 {
-	width: 42%;
-	padding-right: 5%;
-	padding-bottom: 2%;
-	padding-top: 2%;
+	width: 90%;
+
 	
 }
 
 .video3 {
-	width: 42%;
-	padding-left: 5%;
-	margin-bottom: 150px;
-	
+	width: 90%;
+
 }
 
 .video4 {
-	width: 42%;
-	padding-right: 5%;
-	margin-bottom: 150px;
-}
+	width: 90%;
+
+} 
