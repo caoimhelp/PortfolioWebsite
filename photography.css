@@ -65,6 +65,12 @@ p {
 	
 }
 
+#containermain {
+	
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
 .photo1 {
 	width: 31%;
 	padding: 10px;
